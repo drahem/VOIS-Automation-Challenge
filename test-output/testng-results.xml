@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="google search test suite" duration-ms="13520" started-at="2022-08-08T17:09:32 EET" finished-at="2022-08-08T17:09:45 EET">
+  <suite name="google search test suite" duration-ms="13824" started-at="2022-08-08T17:14:09 EET" finished-at="2022-08-08T17:14:22 EET">
     <groups>
     </groups>
-    <test name="google search test" duration-ms="13520" started-at="2022-08-08T17:09:32 EET" finished-at="2022-08-08T17:09:45 EET">
+    <test name="google search test" duration-ms="13824" started-at="2022-08-08T17:14:09 EET" finished-at="2022-08-08T17:14:22 EET">
       <class name="testCases.testSearch">
-        <test-method status="PASS" signature="initDriver()[pri:0, instance:testCases.testSearch@61f8bee4]" name="initDriver" is-config="true" duration-ms="5784" started-at="2022-08-08T17:09:32 EET" finished-at="2022-08-08T17:09:37 EET">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:testCases.testSearch@887af79]" name="initDriver" is-config="true" duration-ms="4772" started-at="2022-08-08T17:14:09 EET" finished-at="2022-08-08T17:14:13 EET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initDriver -->
-        <test-method status="PASS" signature="testGoogleSearch()[pri:0, instance:testCases.testSearch@61f8bee4]" name="testGoogleSearch" duration-ms="3770" started-at="2022-08-08T17:09:37 EET" finished-at="2022-08-08T17:09:41 EET">
+        <test-method status="PASS" signature="testGoogleSearch()[pri:0, instance:testCases.testSearch@887af79]" name="testGoogleSearch" duration-ms="5466" started-at="2022-08-08T17:14:14 EET" finished-at="2022-08-08T17:14:19 EET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGoogleSearch -->
-        <test-method status="PASS" signature="openSecondPage()[pri:0, instance:testCases.testSearch@61f8bee4]" name="openSecondPage" duration-ms="3847" started-at="2022-08-08T17:09:41 EET" depends-on-methods="testCases.testSearch.testGoogleSearch" finished-at="2022-08-08T17:09:45 EET">
+        <test-method status="PASS" signature="openSecondPage()[pri:0, instance:testCases.testSearch@887af79]" name="openSecondPage" duration-ms="3479" started-at="2022-08-08T17:14:19 EET" depends-on-methods="testCases.testSearch.testGoogleSearch" finished-at="2022-08-08T17:14:22 EET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openSecondPage -->
-        <test-method status="PASS" signature="stopDriver()[pri:0, instance:testCases.testSearch@61f8bee4]" name="stopDriver" is-config="true" duration-ms="865" started-at="2022-08-08T17:09:45 EET" finished-at="2022-08-08T17:09:46 EET">
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:testCases.testSearch@887af79]" name="stopDriver" is-config="true" duration-ms="906" started-at="2022-08-08T17:14:22 EET" finished-at="2022-08-08T17:14:23 EET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopDriver -->
