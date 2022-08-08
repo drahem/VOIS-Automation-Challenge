@@ -11,8 +11,8 @@
 - run pom.xml file to load dependencies 
 - set config from data.properties file
   - choose which browser to run (chrome - edge - firefox)
-- run test suite test.xml
-- view executed reports from folder test-output -> index.html
+- run test suite file -> testSuite.xml
+- view executed reports in HTML format from folder test-output -> index.html
 
 
 ### Self-Evaluation List
